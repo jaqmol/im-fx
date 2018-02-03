@@ -9,6 +9,8 @@ Immutable functional reactive programming micro-extension to [React](https://rea
 - Built with async in mind
 - Concepts to reduce LOCs in real world apps
 
+[See the IM-FX wiki for documentation.](https://github.com/jaqmol/im-fx/wiki)
+
 ## Immutable State Tree,
 
 based on [ImmutableJS](https://facebook.github.io/immutable-js/) and the concept of key-path-observation. Compared to react-redux, greatly reduces LOCs for passing around action handlers, as well as reducers.
