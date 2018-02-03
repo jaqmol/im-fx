@@ -1,0 +1,18 @@
+{
+  "name": "immutablefx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ronny Reichmann",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^1.1.0",
+    "route-parser": "0.0.5"
+  }
+}
