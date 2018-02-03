@@ -4,9 +4,8 @@ Immutable functional reactive programming micro-extension covering:
 
 - A real single immutable state tree
 - Pure functional reactive components
-- Built to reduce LOCs
-
-Covers front-end programming in immutable functional reactive style:
+- Built with async in mind
+- Concepts to reduce LOCs in real world apps
 
 ## Immutable State Tree,
 
@@ -14,7 +13,7 @@ based on ImmutableJS and the concept of key-path-observation. Compared to react-
 
 ## Facade,
 
-implemented as React higher-order components. Directly bind properties of functional React components to state-tree values via key-paths. No cumbersome container components, no class based components, fewer LOCs.
+based on React higher-order components. Directly bind properties of functional React components to state-tree values via key-paths. No cumbersome container components, no class based components, fewer LOCs.
 
 ## Routing,
 
@@ -29,4 +28,4 @@ is concise, centralised, expressive and clean. On purpose, IM-FX routing is not 
 
 ## If you like what you read
 
-Documentation is in the wiki.
+Check it out and [read on in the wiki.](https://github.com/jaqmol/im-fx/wiki)
