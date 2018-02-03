@@ -1,4 +1,4 @@
-<img src="https://github.com/jaqmol/im-fx/blob/master/accessory/icon.png" width="150" />
+<img src="https://github.com/jaqmol/im-fx/raw/master/accessory/icon.png" width="150" />
 
 # Immutable FX (IM-FX)
 
