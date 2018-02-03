@@ -1,10 +1,13 @@
 {
-  "name": "immutablefx",
+  "name": "im-fx",
   "version": "0.5.1",
-  "description": "",
+  "description": "Immutable functional reactive programming micro-extension to React",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "author": "Ronny Reichmann",
   "license": "MIT",
