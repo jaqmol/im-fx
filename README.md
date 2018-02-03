@@ -1,6 +1,8 @@
+<img src="https://github.com/jaqmol/im-fx/blob/master/accessory/icon.png" width="150" />
+
 # Immutable FX (IM-FX)
 
-Immutable functional reactive programming micro-extension covering:
+Immutable functional reactive programming micro-extension to [React](https://reactjs.org/) covering:
 
 - A real single immutable state tree
 - Pure functional reactive components
@@ -9,7 +11,7 @@ Immutable functional reactive programming micro-extension covering:
 
 ## Immutable State Tree,
 
-based on ImmutableJS and the concept of key-path-observation. Compared to react-redux, greatly reduces LOCs for passing around action handlers, as well as reducers.
+based on [ImmutableJS](https://facebook.github.io/immutable-js/) and the concept of key-path-observation. Compared to react-redux, greatly reduces LOCs for passing around action handlers, as well as reducers.
 
 ## Facade,
 
