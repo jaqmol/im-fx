@@ -1,6 +1,6 @@
 {
   "name": "im-fx",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Immutable functional reactive programming micro-extension to React",
   "main": "index.js",
   "scripts": {
