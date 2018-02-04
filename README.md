@@ -9,7 +9,7 @@ The fulcrum is to be as minimal an extension to React as possible, while coverin
 - Built with async in mind
 - Concepts to reduce LOCs in real world apps
 
-[See IM-FX wiki for documentation](https://github.com/jaqmol/im-fx/wiki)
+[See IM-FX wiki for documentation](https://github.com/jaqmol/im-fx/wiki/Concepts)
 
 ## Immutable State Tree,
 
@@ -32,4 +32,4 @@ is concise, centralised, expressive and clean. On purpose, IM-FX routing is not 
 
 ## If you like what you read
 
-Check it out and [read on in the wiki.](https://github.com/jaqmol/im-fx/wiki)
+Check it out and [read on in the wiki.](https://github.com/jaqmol/im-fx/wiki/Concepts)
